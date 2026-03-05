@@ -1,0 +1,35 @@
+2026-01-23 22:56:06,762 | Use pytorch device_name: cpu
+2026-01-23 22:56:06,763 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-23 22:57:11,576 | QUERY='I can’t log into my account and keep getting a password error — how do I reset it and contact support?' | CLEAN='i cant log into my account and keep getting a password error how do i reset it and contact support' | RESULTS=0 | LATENCY=2.4305s
+2026-01-23 22:58:23,442 | Use pytorch device_name: cpu
+2026-01-23 22:58:23,442 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-23 22:58:29,594 | QUERY='I can’t log into my account and keep getting a password error — how do I reset it and contact support?' | CLEAN='i cant log into my account and keep getting a password error how do i reset it and contact support' | RESULTS=8 | LATENCY=0.0481s
+2026-01-24 00:10:53,503 | Use pytorch device_name: cpu
+2026-01-24 00:10:53,537 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 00:12:31,379 | QUERY='I was charged twice for my order and I cannot find my receipt email. How do I fix this?' | CLEAN='i was charged twice for my order and i cannot find my receipt email how do i fix this' | RESULTS=8 | LATENCY=0.0375s
+2026-01-24 00:12:44,926 | QUERY='My app keeps crashing and I cannot log into my account anymore.' | CLEAN='my app keeps crashing and i cannot log into my account anymore' | RESULTS=8 | LATENCY=0.0161s
+2026-01-24 00:13:00,975 | QUERY='Can I get a refund for shipping fees if my order was delayed?' | CLEAN='can i get a refund for shipping fees if my order was delayed' | RESULTS=8 | LATENCY=0.0145s
+2026-01-24 00:20:38,657 | Use pytorch device_name: cpu
+2026-01-24 00:20:38,657 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 00:20:45,085 | QUERY='Hi' | CLEAN='hi' | RESULTS=1 | LATENCY=0.0495s
+2026-01-24 00:48:25,944 | Use pytorch device_name: cpu
+2026-01-24 00:48:25,968 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 00:49:42,600 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-01-24 00:55:19,559 | Use pytorch device_name: cpu
+2026-01-24 00:55:19,572 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 00:59:39,744 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-24 00:59:40,177 | RAG_QUERY='My app keeps crashing and I cannot log into my account anymore.' | CTX=5 | LATENCY=3.5128s
+2026-01-24 10:34:16,860 | Use pytorch device_name: cpu
+2026-01-24 10:34:16,873 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 10:36:15,941 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-24 10:36:16,154 | RAG_QUERY='my app keeps crashing and i cannot access my account' | CTX=5 | LATENCY=3.6130s
+2026-01-24 10:38:53,423 | Use pytorch device_name: cpu
+2026-01-24 10:38:53,423 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 10:58:30,106 | Use pytorch device_name: cpu
+2026-01-24 10:58:30,107 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-24 10:58:50,119 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-24 10:58:50,120 | RAG_QUERY='my app keeps crashing and i cannot log into my account' | CTX=5 | LATENCY=0.6497s
+2026-01-24 10:59:52,610 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-24 10:59:52,612 | RAG_QUERY='the app says my payment cancelled but it pulled money out of my bank account' | CTX=5 | LATENCY=0.3780s
+2026-01-24 11:00:08,068 | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-24 11:00:08,071 | RAG_QUERY='my laptop keeps crashing when i run a particular app' | CTX=3 | LATENCY=0.3233s

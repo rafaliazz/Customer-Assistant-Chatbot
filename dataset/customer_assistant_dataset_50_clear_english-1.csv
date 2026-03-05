@@ -1,0 +1,51 @@
+id,category,prompt,response
+1,FAQ,What are your business hours?,We're open Monday to Friday from 9 AM to 6 PM local time.
+2,FAQ,Do you ship internationally?,"Yes, we ship to most countries worldwide. Shipping fees vary by location."
+3,FAQ,How long does delivery take?,Standard delivery usually takes 3-5 business days.
+4,FAQ,Can I change my order after placing it?,You can update your order within 1 hour by contacting support.
+5,FAQ,Do you offer student discounts?,"Yes, eligible students can receive a discount through our verification program."
+6,FAQ,Is there a mobile app?,"Yes, our app is available on both iOS and Android."
+7,FAQ,What payment methods do you accept?,"We accept credit cards, PayPal, and digital wallets."
+8,FAQ,Can I track my shipment?,"Yes, once shipped you'll receive a tracking link via email."
+9,FAQ,How do I reset my password?,"Click ""Forgot Password"" on the login page and follow the instructions."
+10,FAQ,Can I delete my account?,"Yes, go to account settings or contact support for assistance."
+11,Troubleshooting,My order says delivered but I didn't receive it.,Please check nearby locations or contact us so we can investigate.
+12,Troubleshooting,The app keeps crashing on startup.,Try reinstalling the app or updating to the latest version.
+13,Troubleshooting,I can't log into my account.,Make sure your credentials are correct or reset your password.
+14,Troubleshooting,My payment failed but money was deducted.,We're sorry-please contact support so we can resolve this quickly.
+15,Troubleshooting,The website isn't loading properly.,Clear your browser cache or try another browser.
+16,Troubleshooting,I didn't get my verification email.,Check your spam folder or request a resend.
+17,Troubleshooting,My discount code doesn't work.,Ensure the code is valid and hasn't expired.
+18,Troubleshooting,I was charged twice.,Please contact billing support and we'll refund the extra charge.
+19,Troubleshooting,Tracking link isn't updating.,Carriers sometimes delay updates-check again in a few hours.
+20,Troubleshooting,My file upload keeps failing.,Confirm the file size and format meet our requirements.
+21,Contact Info,How can I reach customer support?,"You can contact us via email, live chat, or phone."
+22,Contact Info,What's your support email address?,Please email support@company.com for assistance.
+23,Contact Info,Do you have a phone number?,"Yes, call us at +1-800-555-1234."
+24,Contact Info,Is live chat available?,"Yes, live chat is available during business hours."
+25,Contact Info,Where is your office located?,Our headquarters are in New York City.
+26,Contact Info,Can I speak to a manager?,We'll connect you with a supervisor if needed.
+27,Contact Info,How do I submit feedback?,You can submit feedback through our website form.
+28,Contact Info,Do you have social media support?,"Yes, we respond to messages on Twitter and Facebook."
+29,Policy,What is your return policy?,Returns are accepted within 30 days in original condition.
+30,Policy,Do you refund shipping fees?,Shipping fees are non-refundable unless the error was ours.
+31,Policy,How do you handle my personal data?,We follow strict privacy and security standards outlined in our policy.
+32,Policy,Can I cancel my subscription anytime?,"Yes, subscriptions can be canceled from your account dashboard."
+33,Policy,Are refunds automatic?,Refunds are processed once we receive and inspect the item.
+34,FAQ,Do you offer gift cards?,"Yes, digital gift cards are available on our website."
+35,FAQ,Is same-day delivery available?,Same-day delivery is offered in select locations.
+36,FAQ,Can I update my email address?,You can change it from your profile settings.
+37,FAQ,Are there bulk discounts?,"Yes, we offer special pricing for large orders."
+38,FAQ,What currencies do you accept?,Prices are displayed in local currency where available.
+39,Troubleshooting,My account was locked.,"For security reasons, please contact support to unlock it."
+40,Troubleshooting,I see an error message during checkout.,Refresh the page or try again later.
+41,Troubleshooting,Notifications stopped working.,Check app permissions in your device settings.
+42,Troubleshooting,My refund hasn't arrived yet.,Refunds typically take 5-7 business days to process.
+43,Troubleshooting,The promo disappeared at checkout.,Please re-enter the code and ensure eligibility.
+44,Contact Info,Do you have a help center?,"Yes, visit our Help Center for articles and guides."
+45,Contact Info,How fast does support reply?,Most inquiries are answered within 24 hours.
+46,Policy,Is my payment information secure?,"Yes, we use encrypted payment systems."
+47,Policy,Do you store credit card numbers?,"No, we rely on certified payment processors."
+48,FAQ,Can I preorder upcoming products?,"Yes, preorder options appear on product pages."
+49,FAQ,Do memberships expire?,Memberships renew automatically unless canceled.
+50,FAQ,Can I change my delivery address?,You can update it before shipment from your order page.
